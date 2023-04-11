@@ -1,6 +1,6 @@
 ---
 title: Top programming languages
-slug: top-programming-languages
+slug: top-programming-language-2023
 meta: You’ve likely heard of Rust as it has made significant inroads in critical low-level infrastructures such as operating systems and embedded microcontrollers.
 ---
 Maybe you’ve heard of it, maybe you haven’t. Zig is a new programming language that seems to be growing in popularity. Let’s do a quick dive into what it is, why it’s unique, and what sort of things you would use it for. (Ed Note: Other than “for great justice“, naturally.)

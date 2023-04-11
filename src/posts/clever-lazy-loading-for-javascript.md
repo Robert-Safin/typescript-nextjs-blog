@@ -1,6 +1,6 @@
 ---
-title: Lazy loading for javascript
-slug: clever-lazy-loading-javascript
+title: Clever lazy loading for javascript
+slug: clever-lazy-loading-for-javascript
 meta: Maybe you’ve heard of it, maybe you haven’t. Zig is a new programming language that seems to be growing in popularity.
 ---
 

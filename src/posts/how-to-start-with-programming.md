@@ -1,6 +1,6 @@
 ---
 title: Starting to programme
-slug: how-to-start-programming
+slug: how-to-start-with-programming
 meta: Astro is a new approach to the current fervor in JavaScript- wringing more performance out of reactive front ends. It is developed by the same team that created the Snowpack build tool.
 ---
 
